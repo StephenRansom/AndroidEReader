@@ -3,6 +3,9 @@ package com.commonsware.empublite;
 import android.app.Activity;
 import android.os.Bundle;
 
+
+//empubliteactivity
+
 public class EmPubLiteActivity extends Activity {
 
     @Override
