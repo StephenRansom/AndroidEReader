@@ -28,7 +28,7 @@ public class EmPubLiteActivity extends Activity {
         pager.setAdapter(adapter);
 
         MaterialTabs tabs=(MaterialTabs)findViewById(R.id.tabs);
-       // tabs.setViewPager(pager);
+        tabs.setViewPager(pager);
     }
 
 
