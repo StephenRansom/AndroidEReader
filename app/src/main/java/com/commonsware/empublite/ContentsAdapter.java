@@ -9,6 +9,8 @@ import android.support.v13.app.FragmentStatePagerAdapter;
  */
 
 public class ContentsAdapter extends FragmentStatePagerAdapter {
+
+
     public ContentsAdapter(Activity ctxt){
         super(ctxt.getFragmentManager());
     }
