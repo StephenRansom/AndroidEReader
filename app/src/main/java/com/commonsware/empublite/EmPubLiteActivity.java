@@ -30,7 +30,9 @@ public class EmPubLiteActivity extends Activity {
         MaterialTabs tabs=(MaterialTabs)findViewById(R.id.tabs);
         tabs.setViewPager(pager);
     }
+private void doNothing(){
 
+}
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu){
