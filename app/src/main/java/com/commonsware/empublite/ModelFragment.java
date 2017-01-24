@@ -37,6 +37,9 @@ public class ModelFragment extends Fragment {
 
     }
 
+    private void doNothing(){
+
+    }
     public BookContents getBook(){
         return(contents.get());
     }
